@@ -2,7 +2,10 @@
 
 A remake of Google Chrome's iconic offline T-Rex game for the PlayStation 2.
 
-![Game preview on PCSX2](preview.png)
+<details>
+  <summary>Preview running on PCSX2</summary>
+  <img src="preview.png" />
+</details>
 
 ## Description
 
