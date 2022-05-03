@@ -127,6 +127,7 @@ module.exports = function () {
     }
 
     function kill() {
+        frame = 0;
         state = states.DEAD;
         Sound.playADPCM(-1, deadSound);
     }
