@@ -2,6 +2,8 @@
 
 A remake of Google Chrome's iconic offline T-Rex game for the PlayStation 2.
 
+![Game preview on PCSX2](preview.png)
+
 ## Description
 
 It is not an integral copy of the original game but it works well as a simple demo that runs on our ol' reliable PS2. While the original game was also written in JS, this was rewritten from scratch to be run using [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv). 
@@ -27,4 +29,4 @@ If you want to test this on an emulator, [PCSX2](https://pcsx2.net/) is recommen
 - Down arrow - Crawl
 
 ## License
-Distributed under GNU GPL-3.0 License. See `LICENSE` for more information.
+Distributed under GNU GPL-3.0 License. 
